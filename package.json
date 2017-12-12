@@ -1,0 +1,11 @@
+{
+  "name": "ejercicio03",
+  "version": "1.0.0",
+  "description": "number to words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Castro Castellanos",
+  "license": "ISC"
+}
